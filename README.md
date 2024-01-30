@@ -48,6 +48,10 @@
   DB_USERNAME=root
   DB_PASSWORD=
   ```
+- Jalankan migration database
+  ```
+  php artisan migrate
+  ```
 - Jalankan Aplikasi
   ```
   php artisan serve
